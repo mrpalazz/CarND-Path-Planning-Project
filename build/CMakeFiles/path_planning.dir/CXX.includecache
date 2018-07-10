@@ -772,6 +772,18 @@ lapacke_mangling.h
 
 /mnt/c/Users/mrpal/Documents/Projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 
+/mnt/c/Users/mrpal/Documents/Projects/CarND-Path-Planning-Project/src/gap.h
+iostream
+-
+cassert
+-
+vector
+-
+algorithm
+-
+cmath
+-
+
 /mnt/c/Users/mrpal/Documents/Projects/CarND-Path-Planning-Project/src/json.hpp
 algorithm
 -
@@ -851,6 +863,8 @@ json.hpp
 /mnt/c/Users/mrpal/Documents/Projects/CarND-Path-Planning-Project/src/json.hpp
 spline.h
 /mnt/c/Users/mrpal/Documents/Projects/CarND-Path-Planning-Project/src/spline.h
+gap.h
+/mnt/c/Users/mrpal/Documents/Projects/CarND-Path-Planning-Project/src/gap.h
 
 /mnt/c/Users/mrpal/Documents/Projects/CarND-Path-Planning-Project/src/spline.h
 cstdio
